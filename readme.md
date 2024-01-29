@@ -70,4 +70,18 @@
         - ( string , boolean , numeric , function , array etc ) ka data aap store kr sakte ho .
 
 
+# Q.6. Global Object :-
+
+    * What is Global Object ?
+    * Global Object in different Platform
+    * How to make global property
+    * How to check features (useful for old browsers)
+    * interview question 
+
+    Window  --> In node not work
+    global
+    this
+    self
+    globalThis  --> support in all Browser
+
     
